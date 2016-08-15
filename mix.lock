@@ -1,0 +1,7 @@
+%{"decorators": {:hex, :decorators, "0.1.0", "1f4fd3682de23c6bce769201613812f5eaf809310a27e35ddbfd91e53b126267", [:rebar3], [{:parse_trans, "2.9.0", [hex: :parse_trans, optional: false]}]},
+  "edown": {:hex, :edown, "0.8.1", "7333b6f6b7bbc736c263e9ceb8261667d7c8f7d92e251829f1a9fe8f24e7b694", [:rebar3], []},
+  "jiffy": {:hex, :jiffy, "0.14.7", "9f33b893edd6041ceae03bc1e50b412e858cc80b46f3d7535a7a9940a79a1c37", [:rebar, :make], []},
+  "lhttpc": {:hex, :lhttpc, "1.4.0", "61760afec1ddb98e47972be93b13fbff487a63d65b91a02c41122a0adf83da38", [:rebar3], []},
+  "newrelic": {:hex, :newrelic, "0.1.0", "dd80750994644701fabb99fe7531e3bb6d200957cd1cb5c5f455ed7f9e6d0f90", [:rebar3], [{:jiffy, "0.14.7", [hex: :jiffy, optional: false]}, {:lhttpc, "1.4.0", [hex: :lhttpc, optional: false]}, {:statman, "0.5.0", [hex: :statman, optional: false]}]},
+  "parse_trans": {:hex, :parse_trans, "2.9.0", "3f5f7b402928fb9fd200c891e635de909045d1efac40ce3f924d3892898f85eb", [:rebar, :rebar], [{:edown, "> 0.0.0", [hex: :edown, optional: false]}]},
+  "statman": {:hex, :statman, "0.5.0", "3b130ed01bca478d34631752f678dc43ffe09d46d2e526554e285673c3497270", [:rebar3], [{:decorators, "0.1.0", [hex: :decorators, optional: false]}]}}
