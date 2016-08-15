@@ -30,6 +30,16 @@ The aim of this project it to create a library that contains the minimal depende
     end
   ```
 
+  3. Set up your application name and license key in your `config.exs`
+
+  ```elixir
+
+    config :discorelic,
+      application_name: "MyAwesomeApplication",
+      license_key: System.get_env("NEW_RELIC_LICENSE_KEY")
+
+  ```
+
 ## Usage
 
 Discorelic uses Elixir's macros in order to provide an easy way to record transactions. Currently it supports:
