@@ -1,3 +1,5 @@
+https://travis-ci.org/nogates/discorelic.svg?branch=add-travis
+
 # Discorelic
 
 Discorelic is an Elixir implementation of the NewRelic intrumentation PaaS. It's based on erlang newrelic, which basically has reversed engineering the python client, so its integration with NewRelic is not 100% perfect.
