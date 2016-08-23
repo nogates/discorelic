@@ -1,4 +1,5 @@
-https://travis-ci.org/nogates/discorelic.svg?branch=add-travis
+[![Build Status](https://travis-ci.org/nogates/discorelic.svg?branch=add-travis)](https://travis-ci.org/nogates/discorelic)
+[![Coverage Status](https://coveralls.io/repos/github/nogates/discorelic/badge.svg)](https://coveralls.io/github/nogates/discorelic)
 
 # Discorelic
 
